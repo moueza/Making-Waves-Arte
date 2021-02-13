@@ -1,6 +1,3 @@
-# Making-Waves-Arte
-From https://www.arte.tv/fr/videos/091133-000-A/making-waves-la-magie-du-son-au-cinema/
-
 Making Waves - La magie du son au cinéma - Regarder le documentaire complet | ARTE 
 
 (breadcrumbs CCRMA Fedora GNU Linux)
